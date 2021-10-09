@@ -1,0 +1,8 @@
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\bin\Debug\Datos.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\bin\Debug\Datos.pdb
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\bin\Debug\Entidades.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\bin\Debug\Entidades.pdb
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\obj\Debug\Datos.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Datos\obj\Debug\Datos.pdb

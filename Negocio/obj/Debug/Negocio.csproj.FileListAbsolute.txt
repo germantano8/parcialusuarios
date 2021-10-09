@@ -1,0 +1,11 @@
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\bin\Debug\Negocio.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\bin\Debug\Negocio.pdb
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\bin\Debug\Datos.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\bin\Debug\Entidades.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\bin\Debug\Datos.pdb
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\bin\Debug\Entidades.pdb
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\obj\Debug\Negocio.dll
+D:\Facultad\Tercer año\.NET\Parciales PC\ParcialUsuarios\Negocio\obj\Debug\Negocio.pdb
